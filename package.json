@@ -1,0 +1,25 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "this is a example for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dejour/testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dejour/testing/issues"
+  },
+  "homepage": "https://github.com/dejour/testing#readme",
+  "devDependencies": {
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.12.35",
+    "karma-chrome-launcher": "^0.1.12",
+    "karma-jasmine": "^0.3.5"
+  }
+}
